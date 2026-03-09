@@ -404,4 +404,5 @@ from the instance details page and connect from your other instance in the same 
 ssh -i ~/.ssh/id_rsa opc@instance-20210714-xxxx.subnet.vcn.oraclevcn.com
 ```
 #   t r i g g e r  
+ #   r e t r y  
  
